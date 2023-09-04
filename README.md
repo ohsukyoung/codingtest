@@ -435,8 +435,30 @@ public class Test
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxODExMjBfMjYz/MDAxNTQyNzEzNTIwMTg1.1aqhgkoEKUy_EX7SGgLU9BqMrq43tJe5kEmpWABMfHYg.oOa6NRYBH6hX1XSfyomwqeQgsut8G0hZo6XC8taFbEwg.JPEG.yellowouk2/195a4f324494ad4db1a0209a41ff8b79.jpg?type=w800" width="200px" alt="sample image">
 
+<br><br>
+*******
+<br><br>
 
-## 11. 기타
-### 11.1. 작성참조 링크
+## 11. 체크박스
+- 줄 앞에 `- [ ]` 사용시 미완료 리스트
+- 줄 앞에 `- [x]` 사용시 완료 리스트
+- 체크 안에서 여러 기능 사용가능
+
+<br><br>
+
+### 11.1. Edit
+```html
+- [ ] 사용시 미완료 리스트
+- [x] 사용시 완료 리스트
+```
+
+<br><br>
+
+### 10.2. Preview
+- [ ] 사용시 미완료 리스트
+- [x] 사용시 완료 리스트
+
+## 12. 기타
+### 12.1. 작성참조 링크
 - [마크다운 문법 정리](https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC)
 - [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
